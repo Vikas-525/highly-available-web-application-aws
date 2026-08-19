@@ -11,7 +11,7 @@ The application is exposed through an Application Load Balancer and uses an Auto
 
 ## 🏗️ Architecture
 
-![AWS Architecture Diagram](architecture.jpg)
+![AWS Architecture Diagram](architecture.jpeg)
 
 ### Architecture Flow
 
