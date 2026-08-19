@@ -119,43 +119,46 @@ The application was hosted on the EC2 instances and accessed through the Applica
 ## 📸 Project Screenshots
 
 ### VPC
-![VPC](vpc.png)
+![VPC](VPC.png)
 
 ### EC2 Instances
-![EC2 Instances](ec2-instances.png)
+![EC2 Instances](EC2%20Instances.png)
 
 ### Application Load Balancer
-![Application Load Balancer](load-balancer.png)
+![Application Load Balancer](Load%20balancer.png)
 
 ### Target Group
-![Target Group](target-group.png)
+![Target Group](Target%20group.png)
 
 ### Auto Scaling Configuration
-![Auto Scaling](auto-scaling.png)
+![Auto Scaling](Auto%20scaling%20details.png)
 
 ### Dynamic Scaling Policy
-![Dynamic Scaling Policy](dynamic-scaling-policy.png)
-
-### CloudWatch Scale-Out Alarm
-![CloudWatch Scale-Out Alarm](cloudwatch-scale-out-alarm.png)
+![Dynamic Scaling Policy](Auto%20Scaling%20dynamic%20policies.png)
 
 ### CloudWatch Scale-In Alarm
-![CloudWatch Scale-In Alarm](cloudwatch-scale-in-alarm.png)
+![CloudWatch Scale-In Alarm](CloudWatch%20scale%20in%20alarm.png)
 
-### SNS Scale-Out Notification
-![SNS Scale-Out Notification](sns-scale-out-alert.png)
+### CloudWatch Scale-Out Alarm
+![CloudWatch Scale-Out Alarm](CloudWatch%20scale%20out%20alarm.png)
+
+### SNS Topics
+![SNS Topics](SNS%20Topics.png)
 
 ### SNS Scale-In Notification
-![SNS Scale-In Notification](sns-scale-in-alert.png)
+![SNS Scale-In Notification](Scale%20in%20email%20notification.jpeg)
+
+### SNS Scale-Out Notification
+![SNS Scale-Out Notification](Scale%20out%20email%20notification.jpeg)
 
 ### Route 53
-![Route 53](route53.png)
+![Route 53](Route%2053.png)
 
 ### ACM Certificate
-![ACM Certificate](acm-certificate.png)
+![ACM Certificate](acm%20certificate.png)
 
 ### HTTPS Website
-![HTTPS Website](https-website.png)
+![HTTPS Website](https%20website.png)
 
 ---
 
