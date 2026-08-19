@@ -134,7 +134,7 @@ The application was hosted on the EC2 instances and accessed through the Applica
 ![Auto Scaling](Auto%20scaling%20details.png)
 
 ### Dynamic Scaling Policy
-![Dynamic Scaling Policy](Auto%20Scaling%20dynamic%20policies.png)
+![Dynamic Scaling Policy](dynamic-scaling-policy.png)
 
 ### CloudWatch Scale-In Alarm
 ![CloudWatch Scale-In Alarm](CloudWatch%20scale%20in%20alarm.png)
